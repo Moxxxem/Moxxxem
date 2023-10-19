@@ -5,7 +5,7 @@
   <p align="center">
     Fullstack Vue.JS / Laravel developer with 3+years of expirience in web-development
   </p>
-  <p align="center">
+  <p align="left">
     My contacts: <br /> 
     <b>E-Mail</b>: m0xxx3m@gmail.com <br />
     <b>Telegram</b>: <a href="https://t.me/B4DM4NN3RS">@B4DM4NN3RS</a>
