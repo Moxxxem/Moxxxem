@@ -3,7 +3,7 @@
 <div align="center">
   <h3 align="center">Hi, my name is Maxim</h3>
   <p align="center">
-    Fullstack Vue.JS / Laravel developer with 3+years of expirience
+    Fullstack Vue.JS / Laravel developer with 3+years of expirience in web-development
   </p>
 </div>
 
