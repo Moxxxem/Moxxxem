@@ -3,7 +3,7 @@
 <div align="center">
   <h3 align="center">Hi, my name is Maxim</h3>
   <p align="center">
-    Frontend Vue.JS developer
+    Frontend Vue.JS/React developer
   </p>
   <p align="left">
     My contacts: <br /> 
